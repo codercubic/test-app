@@ -1,7 +1,6 @@
 import React from "react";
 
 export default function MessageToUser({ userData, weatherData }) {
-  console.log(userData, weatherData);
   return (
     <div>
       You are {userData?.name} ({userData?.age} years old) and are living at{" "}
