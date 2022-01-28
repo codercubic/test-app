@@ -1,0 +1,240 @@
+{
+  "users": [
+    {
+      "name": "hello ",
+      "age": "5",
+      "location": "china",
+      "id": 1
+    },
+    {
+      "name": "hello ",
+      "age": "5",
+      "location": "china",
+      "id": 2
+    },
+    {
+      "name": "hello ",
+      "age": "5",
+      "location": "china",
+      "id": 3
+    },
+    {
+      "name": "hello ",
+      "age": "5",
+      "location": "china",
+      "id": 4
+    },
+    {
+      "name": "hello ",
+      "age": "5",
+      "location": "china",
+      "id": 5
+    },
+    {
+      "name": "hello ",
+      "age": "5",
+      "location": "china",
+      "id": 6
+    },
+    {
+      "name": "test",
+      "age": "55",
+      "location": "india",
+      "id": 7
+    },
+    {
+      "name": "test",
+      "age": "55",
+      "location": "india",
+      "id": 8
+    },
+    {
+      "name": "test",
+      "age": "55",
+      "location": "china",
+      "id": 9
+    },
+    {
+      "name": "test",
+      "age": "55",
+      "location": "china",
+      "id": 10
+    },
+    {
+      "name": "test",
+      "age": "55",
+      "location": "china",
+      "id": 11
+    },
+    {
+      "name": "test",
+      "age": "50",
+      "location": "china",
+      "id": 12
+    },
+    {
+      "name": "hu",
+      "age": "25",
+      "location": "United Kingdom",
+      "id": 13
+    },
+    {
+      "name": "hu",
+      "age": "25",
+      "location": "United Kingdom",
+      "id": 14
+    },
+    {
+      "name": "hu",
+      "age": "25",
+      "location": "United Kingdom",
+      "id": 15
+    },
+    {
+      "name": "hu",
+      "age": "50",
+      "location": "United Kingdom",
+      "id": 16
+    },
+    {
+      "name": "hu",
+      "age": "25",
+      "location": "Belgium",
+      "id": 17
+    },
+    {
+      "name": "hu",
+      "age": "25",
+      "location": "UK",
+      "id": 18
+    },
+    {
+      "name": "he",
+      "age": "23",
+      "location": "UK",
+      "id": 19
+    },
+    {
+      "name": "he",
+      "age": "50",
+      "location": "UK",
+      "id": 20
+    },
+    {
+      "name": "hell",
+      "age": "55",
+      "location": "UK",
+      "id": 21
+    },
+    {
+      "name": "hi",
+      "age": "34",
+      "location": "Austria",
+      "id": 22
+    },
+    {
+      "name": "hi",
+      "age": "55",
+      "location": "Austria",
+      "id": 23
+    },
+    {
+      "name": "hi",
+      "age": "55",
+      "location": "Austria",
+      "id": 24
+    },
+    {
+      "name": "hi",
+      "age": "55",
+      "location": "india",
+      "id": 25
+    },
+    {
+      "name": "hi",
+      "age": "30",
+      "location": "india",
+      "id": 26
+    },
+    {
+      "name": "hi",
+      "age": "92",
+      "location": "india",
+      "id": 27
+    }
+  ],
+  "weather": [
+    {
+      "location": "Austria",
+      "avg_sleep": 10.6,
+      "age": "50+",
+      "weather": "rainy"
+    },
+    {
+      "location": "Austria",
+      "avg_sleep": 10.7,
+      "age": "10-50",
+      "weather": "dry"
+    },
+    {
+      "location": "Austria",
+      "avg_sleep": 7.8,
+      "age": "<10",
+      "weather": "snowfall"
+    },
+    {
+      "location": "india",
+      "avg_sleep": 9.5,
+      "age": "50+",
+      "weather": "rainy"
+    },
+    {
+      "location": "india",
+      "avg_sleep": 7.53,
+      "age": "<10",
+      "weather": "snowfall"
+    },
+    {
+      "location": "india",
+      "avg_sleep": 6.53,
+      "age": "10-50",
+      "weather": "dry"
+    },
+    {
+      "location": "UK",
+      "avg_sleep": 5.5,
+      "age": "50+",
+      "weather": "rainy"
+    },
+    {
+      "location": "UK",
+      "avg_sleep": 7.53,
+      "age": "<10",
+      "weather": "snowfall"
+    },
+    {
+      "location": "UK",
+      "avg_sleep": 6.23,
+      "age": "10-50",
+      "weather": "dry"
+    },
+    {
+      "location": "Belgium",
+      "avg_sleep": 9.5,
+      "age": "50+",
+      "weather": "rainy"
+    },
+    {
+      "location": "Belgium",
+      "avg_sleep": 10.53,
+      "age": "<10",
+      "weather": "snowfall"
+    },
+    {
+      "location": "Belgium",
+      "avg_sleep": 6.25,
+      "age": "10-50",
+      "weather": "dry"
+    }
+  ]
+}
