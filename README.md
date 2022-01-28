@@ -20,7 +20,7 @@ To Start json Server :
 
 ## `yarn server`
 
-### Used technologies / frameworks :
--Reactjs
+### Used technologies / Libraries :
 - Ant Design
+- React js
 - JSON Server (for db server)
